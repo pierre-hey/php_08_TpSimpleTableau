@@ -37,5 +37,6 @@ ETAPE 6
                 <img src="<?=$img ?>" width="80" data-id='<?=$nombre ?>'>
             </a>   
             <?php
-    }      
+    }    
+// Etape 6 => jeu.php  
 ?>
